@@ -1,0 +1,3 @@
+npx create-react-app meu-aplicativo-react
+cd meu-aplicativo-react
+npm start
